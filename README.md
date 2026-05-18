@@ -1,0 +1,1 @@
+A curated collection of security research, tools, and guidelines for the Model Context Protocol (MCP). Covers threat modeling, prompt injection, tool poisoning, authentication weaknesses, and attack surface analysis across MCP clients, servers, and integrations. Aimed at researchers, red teamers, and developers building secure AI agent pipelines.
